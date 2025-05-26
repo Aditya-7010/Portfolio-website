@@ -41,11 +41,9 @@ You can check out the live version here:
 
 🛠️ How to Run Locally
 
-    Clone the repo:
+    Clone the repo:  git clone https://github.com/Aditya-7010/Portfolio-website.git
 
-git clone https://github.com/Aditya-7010/Portfolio-website.git
-
-Open index.html in your browser:
+Open home.html in your browser:
 
     cd Portfolio-website
     open home.html  # or double-click it manually
