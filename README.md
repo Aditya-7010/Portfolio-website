@@ -37,12 +37,13 @@ This is a responsive personal portfolio website built using HTML, CSS, and JavaS
 
 You can check out the live version here:
 👉 https://myprotfolio78.glitch.me/
-Replace this with your actual GitHub Pages link if deployed.
+
+
 🛠️ How to Run Locally
 
     Clone the repo:
 
-git clone https://github.com/yourusername/Portfolio-website.git
+git clone https://github.com/Aditya-7010/Portfolio-website.git
 
 Open index.html in your browser:
 
@@ -55,9 +56,9 @@ If you'd like to connect:
 
     Email: adisharma70100@gmail.com
 
-    LinkedIn: Aditya Sharma
+    LinkedIn: [Aditya Sharma](https://www.linkedin.com/in/aditya-sharma-568769301/)
 
-    GitHub: @yourusername
+    GitHub: @Aditya-7010
 
 📄 License
 
