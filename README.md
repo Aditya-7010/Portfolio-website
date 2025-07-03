@@ -36,7 +36,7 @@ This is a responsive personal portfolio website built using HTML, CSS, and JavaS
 🔗 Live Demo
 
 You can check out the live version here:
-👉 https://myprotfolio78.glitch.me/
+👉 https://myprotfolio7.glitch.me/
 
 
 🛠️ How to Run Locally
